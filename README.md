@@ -3,9 +3,9 @@
 I did this web site with HTML & CSS & JS
 
 # How i use JS
-I used bits of JS code, which I customized in my own way by adding features to match about what i want to do in my code.
+I used bits of JS code, which I customized in my own way by adding features to match about what i want to do in my code. <br>
 
-![Uploading aboutMe.gif…]()
+![Uploading aboutMe (3).gif…]()
 
 
 # What is the content inside
